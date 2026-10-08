@@ -18,7 +18,6 @@ Arquivos: `ContaBancaria.java` (a classe) e `TesteConta.java` (os testes).
 
 - `CaixaEletronico`: saque com validações usando if / else if / else
 - `Tabuada`: tabuada de qualquer número com for
-- `Par`: números pares e soma com for e operador %
 - `MaiorIdade`: classificação por idade com if / else if
 
 ## Conceitos praticados
